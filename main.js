@@ -11,6 +11,7 @@ let Result=()=>{
     catch(err){
         alert('Enter valid input.')
     }
+    
 }
 
 function del(){
